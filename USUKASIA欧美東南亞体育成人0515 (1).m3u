@@ -1,79 +1,163 @@
-#EXTM3U
-#EXTINF:-1 ,====== UK英国,#genre# ======
-http://0/0.m3u8
-#EXTINF:-1 ,UK: Baby TV
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/1129
-#EXTINF:-1 ,UK: Blippi & Friends
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/304561
-#EXTINF:-1 ,UK: Boomerang
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/1125
-#EXTINF:-1 ,UK: Cartoon Network
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/720
-#EXTINF:-1 ,UK: Cartoonito
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/1546
-#EXTINF:-1 ,UK: CBBC
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/695
-#EXTINF:-1 ,UK: CBeebies
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/4753
-#EXTINF:-1 ,UK: Citv
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/1548
-#EXTINF:-1 ,UK: Disney Channel
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/1113
-#EXTINF:-1 ,UK: Disney Junior
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/1112
-#EXTINF:-1 ,UK: Duck TV
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/144753
-#EXTINF:-1 ,UK: Lolly Kids
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/265254
-#EXTINF:-1 ,UK: Moonbug Kids
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/299969
-#EXTINF:-1 ,UK: Nick Jr Too
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/4759
-#EXTINF:-1 ,UK: Nick Junior
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/1098
-#EXTINF:-1 ,UK: nickelodeon
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/281864
-#EXTINF:-1 ,UK: nickelodeon +1
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/302601
-#EXTINF:-1 ,UK: nicktoons
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/740
-#EXTINF:-1 ,UK: Pop
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/1599
-#EXTINF:-1 ,UK: Pop +1
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/165932
-#EXTINF:-1 ,UK: RTE Jr
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/302778
-#EXTINF:-1 ,UK: Sky Kids
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/302301
-#EXTINF:-1 ,UK: Tiny Pop +1
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/299749
-#EXTINF:-1 ,UK: ZooMoo
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/302422
-#EXTINF:-1 ,UK: Hub Premier 2
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/305271
-#EXTINF:-1 ,UK: Hub Premier 3
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/305272
-#EXTINF:-1 ,UK: Hub Premier 4
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/305273
-#EXTINF:-1 ,UK: Hub Premier 5
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/305274
-#EXTINF:-1 ,UK: LFC TV
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/4721
-#EXTINF:-1 ,UK: MUTV
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/1102
-#EXTINF:-1 ,UK: Premier Sports 1
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/1097
-#EXTINF:-1 ,UK: Premier Sports 2
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/4723
-#EXTINF:-1 ,UK: Sky Sports Football
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/266
-#EXTINF:-1 ,UK: Sky Sports Premier League
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/263
-#EXTINF:-1 ,UK: Sky Sports+
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/308828
-#EXTINF:-1 ,UK: Eurosport 1
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/692
-#EXTINF:-1 ,UK: Eurosport 2
+#EXTM3U url-tvg="http://194.127.193.50:9527/api/epg/xmltv.xml" x-tvg-url="http://194.127.193.50:9527/api/epg/xmltv.xml"
+
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="Astro",AXN
+http://194.127.193.50:9527/ch/80ac909e9d2e1cb27bd8d0568e5e009e/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Arena" tvg-logo="" group-title="Astro",Astro Arena
+http://194.127.193.50:9527/ch/d93ed5987df310a03370536c7d654bb7/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Arena 2" tvg-logo="" group-title="Astro",Astro Arena 2
+http://194.127.193.50:9527/ch/2b2356f837d1fee6f4e6c421f0b881b2/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Golf" tvg-logo="" group-title="Astro",Astro Golf
+http://194.127.193.50:9527/ch/54bf251da823f651f3e796016970f91e/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Sports Plus" tvg-logo="" group-title="Astro",Astro Sports Plus
+http://194.127.193.50:9527/ch/e9d6612702f6fa75890a910b3415cea1/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Sports Plus" tvg-logo="" group-title="Astro",Astro Sports Plus
+http://194.127.193.50:9527/ch/eb66cbaddaf39c8089011d63eb80aa7d/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBC 地球" tvg-logo="" group-title="Astro",BBC 地球
+http://194.127.193.50:9527/ch/363430cd5cfdc40282a7cf43ea8baf73/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Blippi & Friends" tvg-logo="" group-title="Astro",Blippi & Friends
+http://194.127.193.50:9527/ch/6b441f93c0360a906d3dbfa11344f9dc/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="" group-title="Astro",CCTV4
+http://194.127.193.50:9527/ch/364f7261360eb86bbea3fed52fb8c1fa/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CN卡通" tvg-logo="" group-title="Astro",CN卡通
+http://194.127.193.50:9527/ch/991c73e1ecfa485f7f5f09e723b7e0c2/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CRIME INVESTIGATION" tvg-logo="" group-title="Astro",CRIME INVESTIGATION
+http://194.127.193.50:9527/ch/086e878efc8965e45b28e540ca3de17a/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="" group-title="Astro",HGTV
+http://194.127.193.50:9527/ch/eef77a7be1923b8d7188b6ca639c8824/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HITS" tvg-logo="" group-title="Astro",HITS
+http://194.127.193.50:9527/ch/432a0ab87399f6197884cc7663535dba/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HITS NOW" tvg-logo="" group-title="Astro",HITS NOW
+http://194.127.193.50:9527/ch/e4a43cf0091fcdfe35921413f0857fed/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HOTS MOVIES" tvg-logo="" group-title="Astro",HOTS MOVIES
+http://194.127.193.50:9527/ch/7bfac584050a4c7888c9aa03b53dc4ea/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="K+" tvg-logo="" group-title="Astro",K+
+http://194.127.193.50:9527/ch/817a70dd5a7f79b43f3220c83293cb0c/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="KBS国际频道" tvg-logo="" group-title="Astro",KBS国际频道
+http://194.127.193.50:9527/ch/a6dd468626c5ed155eca574b8d288f37/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="" group-title="Astro",Lifetime
+http://194.127.193.50:9527/ch/1f7c047a1d767e1c2eebc5148615aef0/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MOONBUG" tvg-logo="" group-title="Astro",MOONBUG
+http://194.127.193.50:9527/ch/a95075b96a4530302ded455f50fdc1b6/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM SPORTS" tvg-logo="" group-title="Astro",PREMIUM SPORTS
+http://194.127.193.50:9527/ch/7770dbd96087b978e7183bc1ca32129c/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="Astro",TLC
+http://194.127.193.50:9527/ch/8f8d9addacdadffd5d5e5f0567ba6ee2/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TVBS亚洲" tvg-logo="" group-title="Astro",TVBS亚洲
+http://194.127.193.50:9527/ch/2de343d03e10d945f919d83460816c24/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TVB星河频道" tvg-logo="" group-title="Astro",TVB星河频道
+http://194.127.193.50:9527/ch/8804f1e9e5404b79a31e5e4978fe64fb/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="W-Sport" tvg-logo="" group-title="Astro",W-Sport
+http://194.127.193.50:9527/ch/2565c88b381b77f5cc573d251b2c0c28/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="afn" tvg-logo="" group-title="Astro",afn
+http://194.127.193.50:9527/ch/2838d482d46908d7d2da42a20e1fa127/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="astro ACE" tvg-logo="" group-title="Astro",astro ACE
+http://194.127.193.50:9527/ch/743cc2ae938a71af99c40b3deb0af384/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="astro AOD" tvg-logo="" group-title="Astro",astro AOD
+http://194.127.193.50:9527/ch/ecebedc2c1ea8a11755a06077f4b1ed9/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="astro FAM Time" tvg-logo="" group-title="Astro",astro FAM Time
+http://194.127.193.50:9527/ch/07c0637e6ca697c663dac6e6a1947d18/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="astro Oasis" tvg-logo="" group-title="Astro",astro Oasis
+http://194.127.193.50:9527/ch/0434fd78b2bddd890d849dedfde250af/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="astro Showcase" tvg-logo="" group-title="Astro",astro Showcase
+http://194.127.193.50:9527/ch/93e942ef97ef7378291707b969af92c1/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="astro Showtime" tvg-logo="" group-title="Astro",astro Showtime
+http://194.127.193.50:9527/ch/993256b2579ca20ec0824d226663bf18/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="astro Sports UHD" tvg-logo="" group-title="Astro",astro Sports UHD
+http://194.127.193.50:9527/ch/f4d915506f244677fe70cca805c1ec09/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="astro 欢喜台" tvg-logo="" group-title="Astro",astro 欢喜台
+http://194.127.193.50:9527/ch/2b26eaff4403cae94c644a174fa5d3e3/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="one" tvg-logo="" group-title="Astro",one
+http://194.127.193.50:9527/ch/38fd6f5b9654d68666b48715d7260542/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="tvN" tvg-logo="" group-title="Astro",tvN
+http://194.127.193.50:9527/ch/ac83d4d481541a7b1a7fc685ea698b0c/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="tvN MOVIES" tvg-logo="" group-title="Astro",tvN MOVIES
+http://194.127.193.50:9527/ch/492da2bf41bb185cba4c2d033ffbc361/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="中天亚洲台" tvg-logo="" group-title="Astro",中天亚洲台
+http://194.127.193.50:9527/ch/7777bbad3c316d4d8017610abfdff0dd/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文台" tvg-logo="" group-title="Astro",凤凰中文台
+http://194.127.193.50:9527/ch/7cdaa37467b7629cb644cdf18eefbb08/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="千禧经典台" tvg-logo="" group-title="Astro",千禧经典台
+http://194.127.193.50:9527/ch/47494efd9e099ca168a09321fe54d420/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="印度太阳KTV" tvg-logo="" group-title="Astro",印度太阳KTV
+http://194.127.193.50:9527/ch/5da6c44fd44eab8f4a53650a794a6507/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="天映经典频道" tvg-logo="" group-title="Astro",天映经典频道
+http://194.127.193.50:9527/ch/7b72cdd3cb9733dcd2584ceeecaeac20/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="天映频道" tvg-logo="" group-title="Astro",天映频道
+http://194.127.193.50:9527/ch/61d4843aeedb65a873ff0156f4ed489f/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="娱乐新闻台" tvg-logo="" group-title="Astro",娱乐新闻台
+http://194.127.193.50:9527/ch/9778010b1708860a56adc58f296ed2ec/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="尼克少儿" tvg-logo="" group-title="Astro",尼克少儿
+http://194.127.193.50:9527/ch/8d7dedee322a6fe13abf317e4f2f44e4/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="尼克幼儿" tvg-logo="" group-title="Astro",尼克幼儿
+http://194.127.193.50:9527/ch/4f3faa067e8d02c5a51decf78ff2adaf/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="探索亚洲频道" tvg-logo="" group-title="Astro",探索亚洲频道
+http://194.127.193.50:9527/ch/0c83ecfc500646f5daf91912866e1219/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="探索频道" tvg-logo="" group-title="Astro",探索频道
+http://194.127.193.50:9527/ch/0c232372430d8d67892d7e9b5b9a6891/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="板球" tvg-logo="" group-title="Astro",板球
+http://194.127.193.50:9527/ch/37f87489a5257e452b81fe6cda60e519/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="爱奇艺" tvg-logo="" group-title="Astro",爱奇艺
+http://194.127.193.50:9527/ch/2db52da943717dd7a1a47ffb4c85405b/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="爱自然" tvg-logo="" group-title="Astro",爱自然
+http://194.127.193.50:9527/ch/6468dbc9789d27f479562e0b147b7664/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="爱自然4k" tvg-logo="" group-title="Astro",爱自然4k
+http://194.127.193.50:9527/ch/d95fc5a82ae50f8e9f4284a90849ace9/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="" group-title="Astro",翡翠台
+http://194.127.193.50:9527/ch/9d583b1046ca633d5d86c043b4aca889/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="贝恩体育3" tvg-logo="" group-title="Astro",贝恩体育3
+http://194.127.193.50:9527/ch/5c555e4047c27f881447e8fa704290e1/master.m3u8
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/1555
 #EXTINF:-1 ,UK: Fight Network
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/302680
